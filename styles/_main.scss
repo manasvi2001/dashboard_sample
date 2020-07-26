@@ -1,0 +1,8 @@
+.main {
+  &__container {
+    background-color: #DFE1EB;
+    height: calc(100vh - 10rem);
+    grid-column: full-start / full-end;
+    grid-row: 2 / -1;
+  }
+}
